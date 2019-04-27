@@ -1,2 +1,1 @@
-# LT
-Lightning Talks Document
+# Lightning Talks Document
